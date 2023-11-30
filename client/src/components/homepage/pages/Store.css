@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+} 
+
+.store{
+    margin-top: 1250px;
+}
+
+#fixed{
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 80%;
+}
